@@ -1,1 +1,1 @@
-# data_vis_snippets
+# data vis code snippets
