@@ -1,2 +1,0 @@
-This is data scraped from the [Americans Name the 10 Most Significant Historic Events of Their Lifetimes](http://www.people-press.org/2016/12/15/americans-name-the-10-most-significant-historic-events-of-their-lifetimes/) article and survey conducted by the [Pew Research Center](http://www.pewresearch.org/) in 2016, and then combined with informal surveys conducted in class. All of the data is in anonymized and aggregated form.
-
